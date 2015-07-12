@@ -1,3 +1,4 @@
-##########
-*.classpath
-*.project
+
+quickstart/.classpath
+
+quickstart/.project
